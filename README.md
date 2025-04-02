@@ -1,21 +1,20 @@
-- 👋 Olá, eu sou @JoaoMatheus-08
+👋 Olá, eu sou @JoaoMatheus-08
 
-Sobre mim
+🚀 Sobre mim
 
-👀 Tenho interesse em desenvolver sistemas
+👀 Interesses: Desenvolver sistemas
 
-🌱 Atualmente estou aprendendo Desenvolvimento de Sistemas
+🌱 Atualmente aprendendo: Desenvolvimento de Sistemas
 
-💞️ Estou buscando colaborar em empresas de Grande Negócios
+💼 Buscando colaborar: Empresas de Grande Negócios
 
-📫 Como me encontrar: Mande um email para mim : matuto123holmes@gmail.com
+📫 Contato: Mande um email para mim: matuto123holmes@gmail.com
 
-😄 Pronomes: ele/dele
+😄 Pronomes: Ele/Dele
 
-⚡ Fato curioso: Sou um estudante do SENAI e estou aprendendo o curso Desenvolvimento de Sistemas
+🎓 Educação: Estudante do SENAI, aprendendo Desenvolvimento de Sistemas
+
+🛠 Ferramentas que utilizo: Visual Studio Code e MySQL Workbench
 
 Sinta-se à vontade para entrar em contato comigo! 🚀
-<!---
-JoaoMatheus-08/JoaoMatheus-08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
